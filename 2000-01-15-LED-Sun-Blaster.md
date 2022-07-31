@@ -19,7 +19,7 @@ show_sidebar: false
 Theo Long
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/LED-Sun-Blaster"" >LED-Sun-Blaster</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/LED-Sun-Blaster" >LED-Sun-Blaster</a>
 
 ## Photo
 
