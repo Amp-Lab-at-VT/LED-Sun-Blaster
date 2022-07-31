@@ -4,7 +4,7 @@ title: LED Sun Blaster
 description: Create a portable strong LED light source for outdoor activity and other multi-purpose. Such light source can be used in camping, filming, offroading, illuminating jobsite and in even emergency situation.
 date: 2000-01-15 09:00:00
 hero_image: /web/img/LED-Sun-Blaster/Hero.png
-image: /web/img/LED-Sun-Blaster/Hero.png
+# image /web/img/LED-Sun-Blaster/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
